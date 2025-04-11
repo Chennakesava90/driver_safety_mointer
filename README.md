@@ -19,15 +19,20 @@ A real-time AI-powered driver monitoring system that detects driver drowsiness (
 
 ---
 
-## 🖼️ Sample Output Images
+## 📷 Sample Output
 
-### ✅ Detection - Eyes Open, No Phone
-![No Violation](sample_outputs/eyes_open_no_phone.png)
+### ✅ Safe Driving
+![Safe Driving](sample_outputs/safe_driving.png)
 
-### ⚠️ Detection - Eyes Closed
-![Drowsiness Detected](sample_outputs/eyes_closed_alert.png)
+### 😴 Drowsiness Detected
+![Drowsiness Detected](sample_outputs/drowsiness_detected.png)
 
-### 📱 Detection - Phone Usage
+### 📱 Phone Usage Detected
+![Phone Usage](sample_outputs/phone_usage_detected.png)
+
+### ❌ Both Violations
+![Both Violations](sample_outputs/both_violations.png)
+
 ![Phone Usage Detected](sample_outputs/phone_usage_alert.png)
 
 > *(Note: Place your sample images in a folder named `sample_outputs/` in the project directory.)*
