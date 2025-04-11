@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# Audio output
+*.mp3
+
+# System files
+.DS_Store
+Thumbs.db
